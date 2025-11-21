@@ -23,7 +23,7 @@ cd fhevm-hardhat-template
 ```
 npm install
 ```
-### Replace hardhat.config.ts file: github
+### Replace hardhat.config.ts file: okok
 ```
 rm hardhat.config.ts && nano hardhat.config.ts
 ```
